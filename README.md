@@ -21,6 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PhasorDev"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhasorDev&" alt="PhasorDev" /></p>
 <p><img align="left" src="https://github.com/PhasorDev/Phasordev/blob/main/standard-end.gif"/></p>
-<p><img align="right" src="https://github.com/PhasorDev/Phasordev/blob/main/standard-end.gif"/></p>
 
 
