@@ -1,4 +1,3 @@
-<img src="">
 <h1 align="center">Hi 👋, I'm Phasor</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
@@ -21,3 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phasordev&show_icons=true&locale=en&layout=compact" alt="Phasordev" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PhasorDev"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhasorDev&" alt="PhasorDev" /></p>
+<p><img align="left" src="https://github.com/PhasorDev/Phasordev/blob/main/standard-end.gif"/></p>
+<p><img align="right" src="https://github.com/PhasorDev/Phasordev/blob/main/standard-end.gif"/></p>
+
+
