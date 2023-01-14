@@ -1,4 +1,4 @@
-[![MasterHead]](https://cdn.discordapp.com/attachments/1008228482851033151/1063789117915283456/giphy.gif)
+[![MasterHead](https://cdn.discordapp.com/attachments/1008228482851033151/1063789117915283456/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Phasor</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
