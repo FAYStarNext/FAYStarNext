@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on friend **X4-ShisuiHub**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PhasorDev?tab=repositories](https://github.com/x4Paimon?tab=repositories)
+- 👨‍💻 All of my projects are available at [👻](https://github.com/x4Paimon?tab=repositories)
 
 - 📫 How to reach me **x4Paimonシ#1371**
 
