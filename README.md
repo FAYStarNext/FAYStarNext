@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <p align="center">
-<img height="150px" src="https://lanyard-profile-readme.vercel.app/api/527383789475856426" />
+<img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040" />
 </p>
 
 - 🔭 I’m currently working on **PaimonCore**
