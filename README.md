@@ -3,7 +3,7 @@
 
 <p align="center">
 <img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>
-</p>(https://discord.com/users/965086780430889040)
+</p>
 
 - 🔭 I’m currently working on **PaimonCore**
 
