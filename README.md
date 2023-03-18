@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phasor</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🔭 I’m currently working on **ShisuiCore**
+<p align="center">
+<img height="150px" src="https://lanyard-profile-readme.vercel.app/api/527383789475856426" />
+</p>
 
-- 👯 I’m looking to collaborate on friend **X4-ShisuiHub**
+- 🔭 I’m currently working on **PaimonCore**
 
 - 👨‍💻 All of my projects are available at [👻](https://github.com/x4Paimon?tab=repositories)
 
