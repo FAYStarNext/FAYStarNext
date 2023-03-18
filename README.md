@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phasor</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <p align="center">
 <img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>
