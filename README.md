@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <p align="center">
-<img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>(https://discord.com/users/965086780430889040)
-</p>
+<img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>
+</p>(https://discord.com/users/965086780430889040)
 
 - 🔭 I’m currently working on **PaimonCore**
 
