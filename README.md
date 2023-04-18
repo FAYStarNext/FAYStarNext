@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [👻](https://github.com/x4Paimon?tab=repositories)
 
-- 📫 How to reach me **x4Paimonシ#1371**
+- 📫 How to reach me **Paimonシ#1371**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
