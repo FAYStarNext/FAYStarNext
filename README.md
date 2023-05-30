@@ -4,10 +4,6 @@
 <img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>
 </p>
 
-- 🔭 I’m currently working on **PaimonCore**
-
-- 👨‍💻 All of my projects are available at [👻](https://github.com/x4Paimon?tab=repositories)
-
 - 📫 How to reach me **Paimonシ#1371**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,9 +12,9 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x4Paimon&show_icons=true&locale=en&layout=compact" alt="x4Paimon" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=x4Paimon"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x4Paimon&" alt="x4Paimon" /></p>
-<p><img align="left" src="https://github.com/x4Paimon/x4Paimon/blob/main/standard-end.gif"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x4Paimon&show_icons=true&locale=en&layout=compact" alt="Paimon-starnext" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Paimon-starnext"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paimon-starnext&" alt="x4Paimon" /></p>
+<p><img align="left" src="https://github.com/Paimon-starnext/Paimon-starnext/blob/main/standard-end.gif"/></p>
 
 
