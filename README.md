@@ -12,7 +12,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x4Paimon&show_icons=true&locale=en&layout=compact" alt="Paimon-starnext" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paimon-Starnext&show_icons=true&locale=en&layout=compact" alt="Paimon-starnext" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Paimon-starnext"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paimon-starnext&" alt="x4Paimon" /></p>
 <p><img align="left" src="https://github.com/Paimon-starnext/Paimon-starnext/blob/main/standard-end.gif"/></p>
