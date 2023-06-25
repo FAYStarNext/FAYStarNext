@@ -4,7 +4,7 @@
 <img height="150px" src="https://lanyard.cnrad.dev/api/965086780430889040"/>
 </p>
 
-- 📫 How to reach me **Paimonシ#1371**
+- 📫 How to reach me **paimon_starnext**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
