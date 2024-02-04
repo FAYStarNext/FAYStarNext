@@ -1,8 +1,7 @@
-name: Full history calendar
+name: Profile
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.calendar.full.svg
+  filename: metrics.classic.svg
   token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_calendar: yes
-  plugin_calendar_limit: 0
+  base: header, repositories
+  plugin_lines: yes
