@@ -1,7 +1,0 @@
-name: Profile
-uses: FAYStarNext/FAYStarNext
-with:
-  filename: faystarnext.classic.svg
-  token: ${{ secrets.FAYSTARNEXT_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
