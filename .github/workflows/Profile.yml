@@ -1,7 +1,7 @@
 name: Profile
-uses: lowlighter/metrics@latest
+uses: FAYStarNext/FAYStarNext@latest
 with:
   filename: faystarnext.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  token: ${{ secrets.FAYStarNext_TOKEN }}
   base: header, repositories
   plugin_lines: yes
