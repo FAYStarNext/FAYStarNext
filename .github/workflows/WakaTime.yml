@@ -1,5 +1,5 @@
 uses: anmol098/waka-readme-stats@master
-  with:
+with:
       WAKATIME_API_KEY: ${{ secrets.WAKATIMEKEY }}
       GH_TOKEN: ${{ github.token }}
       SHOW_OS: "False"
