@@ -3,12 +3,14 @@ Hi 👋 My name is Fay
 
 Back-End & Typescript Developer
 -------------------------------
+[![Wakatime](https://wakatime.com/badge/user/28b88d81-48f8-4613-b01a-0085464f1daf.svg)](https://wakatime.com/@28b88d81-48f8-4613-b01a-0085464f1daf)
 
 I am from Thailand ;\] It was nice to meet you.
 
 * 🌍  I'm based in Surat Thani
 * ✉️  You can contact me at [faystarnext@gmail.com](mailto:faystarnext@gmail.com)
 * 🧠  I'm learning Discord.JS Express NextJS
+
 
 <a href="https://www.github.com/FAYStarNext" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FAYStarNext?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,3 +32,4 @@ src="https://img.shields.io/github/followers/FAYStarNext?logo=github&style=for-t
 
 <a href="https://github.com/FAYStarNext" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAYStarNext&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FAYStarNext)](https://github.com/anuraghazra/github-readme-stats)
