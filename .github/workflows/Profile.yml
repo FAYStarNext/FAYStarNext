@@ -1,5 +1,5 @@
 name: Profile
-uses: FAYStarNext/FAYStarNext@latest
+uses: FAYStarNext/FAYStarNext
 with:
   filename: faystarnext.classic.svg
   token: ${{ secrets.FAYStarNext_TOKEN }}
