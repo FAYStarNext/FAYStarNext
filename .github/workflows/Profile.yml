@@ -2,6 +2,6 @@ name: Profile
 uses: FAYStarNext/FAYStarNext
 with:
   filename: faystarnext.classic.svg
-  token: ${{ secrets.FAYStarNext_TOKEN }}
+  token: ${{ secrets.FAYSTARNEXT_TOKEN }}
   base: header, repositories
   plugin_lines: yes
