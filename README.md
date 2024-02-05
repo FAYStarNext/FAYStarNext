@@ -1,7 +1,7 @@
 Hi 👋 My name is Fay
 ====================
 
-Back-End & Typescript Developer
+Back-End Developer
 -------------------------------
 [![Wakatime](https://wakatime.com/badge/user/28b88d81-48f8-4613-b01a-0085464f1daf.svg)](https://wakatime.com/@28b88d81-48f8-4613-b01a-0085464f1daf)
 
