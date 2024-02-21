@@ -11,10 +11,13 @@ I am from Thailand ;\] It was nice to meet you.
 * ✉️  You can contact me at [faystarnext@gmail.com](mailto:faystarnext@gmail.com)
 * 🧠  I'm learning Discord.JS Express NextJS
 * 🧠  Mbti Type: ENTJ
+* 🚀 [Donate ME PLS](https://easydonate.app/FAYStarNext)
 
 
 <a href="https://www.github.com/FAYStarNext" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FAYStarNext?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 
 
 ### Skills
