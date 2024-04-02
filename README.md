@@ -7,7 +7,6 @@ Back-End Developer
 
 I am from Thailand ;\] It was nice to meet you.
 
-* 🌍  I'm based in Surat Thani
 * ✉️  You can contact me at [faystarnext@gmail.com](mailto:faystarnext@gmail.com)
 * 🧠  I'm learning Discord.JS Express NextJS
 * 🧠  Mbti Type: ENFP
