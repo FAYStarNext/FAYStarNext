@@ -11,7 +11,7 @@ I am from Thailand ;\] It was nice to meet you.
 * 🧠  I'm learning Discord.JS Express NextJS
 * 🧠  Mbti Type: ENFP
 * 🚀 [Donate ME PLS](https://easydonate.app/FAYStarNext)
-
+![](https://komarev.com/ghpvc/?username=FAYStarNext)
 ### Skills
 
 <p align="left">
