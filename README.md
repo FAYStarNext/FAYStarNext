@@ -20,5 +20,3 @@ I am from Thailand ;\] It was nice to meet you.
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/nuxtjs.svg" width="36" height="36" alt="Nuxt" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FAYStarNext)](https://github.com/anuraghazra/github-readme-stats)
