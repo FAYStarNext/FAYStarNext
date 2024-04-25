@@ -12,7 +12,6 @@ I am from Thailand ;\] It was nice to meet you.
 * 🧠  I'm learning Discord.JS Express NextJS
 * 🧠  Mbti Type: ENFP
 * 🚀 [Donate ME PLS](https://easydonate.app/FAYStarNext)
-<img src="https://github.com/FAYStarNext/FAYStarNext/blob/main/github-metrics.svg" alt="Status" />
 
 ### Skills
 <p align="left">
@@ -21,3 +20,4 @@ I am from Thailand ;\] It was nice to meet you.
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/nuxtjs.svg" width="36" height="36" alt="Nuxt" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
+<img src="https://github.com/FAYStarNext/FAYStarNext/blob/main/github-metrics.svg" alt="Status" />
