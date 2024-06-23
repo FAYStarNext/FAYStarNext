@@ -87,6 +87,11 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_url: https://faystarnext.studio/
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
