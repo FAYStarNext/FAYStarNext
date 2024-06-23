@@ -35,7 +35,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: A
+          plugin_achievements_threshold: X
           plugin_calendar: yes
           plugin_calendar_limit: 2
           plugin_followup: yes
@@ -83,9 +83,6 @@ jobs:
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
           plugin_sponsors_title: Sponsor Me!
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount, sponsorships
-          plugin_sponsorships_size: 24
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
