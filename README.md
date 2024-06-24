@@ -3,7 +3,7 @@ Hi 👋 My name is Fay
 
 Student
 -------------------------------
-<img src="[https://count.getloli.com/get/@:name](https://count.getloli.com/get/@FAYStarNext?theme=asoul)" alt=":FAYStarNext" />
+![:name](https://count.getloli.com/get/@FAYStarNext?theme=asoul)
 
 
 I am from Thailand ;\] It was nice to meet you.
