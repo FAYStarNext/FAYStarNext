@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "*/15 * * * *"}]
+  schedule: [{cron: "*/5 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
